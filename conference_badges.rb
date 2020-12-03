@@ -14,6 +14,6 @@ def assign_rooms(speakers)
   new_arr
 end
 
-def print()
+def print
 
 end
