@@ -5,4 +5,3 @@ end
 def batch_badge_creator(name, messages)
   name.messages
 end
-  
